@@ -32,12 +32,17 @@ public class Farolas extends JFrame implements ActionListener{
     //HAY QUE HACERLO CON MAS DIMENSIONES
     
     private int n1, n2, n3, n4, n5;
-
+    
+    
     
     
     Farolas(){
     	
+    	  System.out.println("Aqui agregamos un cambio para que se vea");
     	  
+    	  //un pequeño comentario por aqui
+    	  
+    	  System.out.println("Y otro syso");
     	    
           panel1=new JPanel();
           panel1.setLayout(null);
